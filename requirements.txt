@@ -1,0 +1,6 @@
+pytest
+openpyxl
+PyPDF2
+reportlab
+pathlib
+shutil
